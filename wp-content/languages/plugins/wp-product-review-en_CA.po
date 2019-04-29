@@ -1,0 +1,763 @@
+# Translation of Plugins - WP Product Review Lite - Development (trunk) in English (Canada)
+# This file is distributed under the same license as the Plugins - WP Product Review Lite - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-01-22 00:11:12+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: en_CA\n"
+"Project-Id-Version: Plugins - WP Product Review Lite - Development (trunk)\n"
+
+#: includes/gutenberg/src/block.js:229
+msgid "Is this post a review?"
+msgstr "Is this post a review?"
+
+#: includes/gutenberg/src/block.js:358
+msgid "0"
+msgstr "0"
+
+#: includes/gutenberg/src/block.js:301
+msgid "Open Affiliate Link"
+msgstr "Open Affiliate Link"
+
+#: includes/gutenberg/src/block.js:278
+msgid "Remove Image"
+msgstr "Remove Image"
+
+#: includes/gutenberg/src/block.js:316
+msgid "Affiliate Button Link"
+msgstr "Affiliate Button Link"
+
+#: includes/gutenberg/src/block.js:327
+msgid "Add another button"
+msgstr "Add another button"
+
+#: includes/gutenberg/src/block.js:371 includes/gutenberg/src/block.js:400
+#: includes/gutenberg/src/block.js:429
+msgid "Add another option"
+msgstr "Add another option"
+
+#: includes/gutenberg/src/block.js:406
+msgid "Con Features"
+msgstr "Con Features"
+
+#: includes/gutenberg/src/block.js:271
+msgid "Review image"
+msgstr "Review image"
+
+#: includes/public/layouts/style2.php:64
+msgid "Users score: %1$d with %2$d votes"
+msgstr "Users score: %1$d with %2$d votes"
+
+#: includes/admin/class-wppr-global-settings.php:176
+msgid "Enabling this will create a new post type where you can manage your reviews. Refresh the page on saving changes to see the \"Reviews\" menu on the left."
+msgstr "Enabling this will create a new post type where you can manage your reviews. Refresh the page on saving changes to see the \"Reviews\" menu on the left."
+
+#: includes/admin/class-wppr-global-settings.php:187
+msgid "Enabling this will result in including custom CSS for AMP."
+msgstr "Enabling this will result in including custom CSS for AMP."
+
+#: includes/admin/class-wppr-global-settings.php:186
+msgid "Enable AMP CSS."
+msgstr "Enable AMP CSS."
+
+#: includes/class-wppr.php:286
+msgid "Review Categories"
+msgstr "Review Categories"
+
+#: includes/class-wppr.php:285
+msgid "New Review Category"
+msgstr "New Review Category"
+
+#: includes/class-wppr.php:284
+msgid "Add New Review Category"
+msgstr "Add New Review Category"
+
+#: includes/class-wppr.php:283
+msgid "Update Review Category"
+msgstr "Update Review Category"
+
+#: includes/class-wppr.php:282
+msgid "Edit Review Category"
+msgstr "Edit Review Category"
+
+#: includes/class-wppr.php:280 includes/class-wppr.php:281
+msgid "Parent Review Category"
+msgstr "Parent Review Category"
+
+#: includes/class-wppr.php:279
+msgid "All Review Categories"
+msgstr "All Review Categories"
+
+#: includes/class-wppr.php:278
+msgid "Search Review Categories"
+msgstr "Search Review Categories"
+
+#: includes/class-wppr.php:276 includes/class-wppr.php:277
+msgid "Review Category"
+msgstr "Review Category"
+
+#: includes/class-wppr.php:251
+msgid "Reviews from WP Product Review"
+msgstr "Reviews from WP Product Review"
+
+#: includes/class-wppr.php:247
+msgid "No reviews found in Trash."
+msgstr "No reviews found in Trash."
+
+#: includes/class-wppr.php:246
+msgid "No review found."
+msgstr "No review found."
+
+#: includes/class-wppr.php:245
+msgid "Parent Review:"
+msgstr "Parent Review:"
+
+#: includes/class-wppr.php:244
+msgid "Search Reviews"
+msgstr "Search Reviews"
+
+#: includes/class-wppr.php:243
+msgid "All Reviews"
+msgstr "All Reviews"
+
+#: includes/class-wppr.php:242
+msgid "View Review"
+msgstr "View Review"
+
+#: includes/class-wppr.php:241
+msgid "Edit Review"
+msgstr "Edit Review"
+
+#: includes/class-wppr.php:240
+msgid "New Review"
+msgstr "New Review"
+
+#: includes/class-wppr.php:239
+msgid "Add New Review"
+msgstr "Add New Review"
+
+#: includes/class-wppr.php:238
+msgctxt "review"
+msgid "Add New"
+msgstr "Add New"
+
+#: includes/class-wppr.php:237
+msgctxt "add new on admin bar"
+msgid "Review"
+msgstr "Review"
+
+#: includes/class-wppr.php:236
+msgctxt "admin menu"
+msgid "Reviews"
+msgstr "Reviews"
+
+#: includes/class-wppr.php:235
+msgctxt "post type singular name"
+msgid "Review"
+msgstr "Review"
+
+#: includes/class-wppr.php:234
+msgctxt "post type general name"
+msgid "Reviews"
+msgstr "Reviews"
+
+#: includes/admin/class-wppr-global-settings.php:175
+msgid "Enable review post type"
+msgstr "Enable review post type"
+
+#: includes/admin/class-wppr-admin.php:413
+msgid "Rating"
+msgstr "Rating"
+
+#: includes/admin/class-wppr-admin.php:386
+msgid "Enter Review Title"
+msgstr "Enter Review Title"
+
+#: includes/functions.php:71
+msgid "'s rating"
+msgstr "'s rating"
+
+#: includes/admin/layouts/editor-default-tpl.php:101
+msgid "You will need the %1$spremium%2$s version to use the extra review templates. You can checkout this %3$sdemo%4$s to see how they are looking."
+msgstr "You will need the %1$spremium%2$s version to use the extra review templates. You can checkout this %3$sdemo%4$s to see how they are looking."
+
+#: includes/admin/layouts/editor-default-tpl.php:61
+msgid "Template"
+msgstr "Template"
+
+#: includes/admin/class-wppr-admin.php:341
+msgid "Review"
+msgstr "Review"
+
+#: includes/admin/class-wppr-admin.php:300
+msgid "Show only Reviews"
+msgstr "Show only Reviews"
+
+#: includes/admin/class-wppr-admin.php:298
+msgid "Show All"
+msgstr "Show All"
+
+#: includes/admin/layouts/editor-default-tpl.php:130
+msgid "The optimum size of the product image must be 600 x 600 px"
+msgstr "The optimum size of the product image must be 600 x 600 px"
+
+#: includes/admin/widgets/abstract/class-wppr-widget-abstract.php:133
+msgid "Select Category"
+msgstr "Select Category"
+
+#: includes/admin/layouts/widget-admin-tpl.php:76
+msgid "Posts published between %s%d%s and %s%d%s week(s) ago"
+msgstr "Posts published between %s%d%s and %s%d%s week(s) ago"
+
+#: includes/admin/layouts/widget-admin-tpl.php:72
+msgid "Timespan (weeks):"
+msgstr "Timespan (weeks):"
+
+#: includes/admin/layouts/widget-admin-tpl.php:23
+msgid "Post Types:"
+msgstr "Post Types:"
+
+#: includes/admin/class-wppr-global-settings.php:384
+msgid "We see %s active, so user feedback is disabled"
+msgstr "We see %s active, so user feedback is disabled"
+
+#: includes/admin/models/class-wppr-editor-model.php:269
+msgid "Attach the image"
+msgstr "Attach the image"
+
+#: includes/admin/models/class-wppr-editor-model.php:268
+msgid "Add a product image to the review"
+msgstr "Add a product image to the review"
+
+#. Plugin Name of the plugin
+msgid "WP Product Review Lite"
+msgstr "WP Product Review Lite"
+
+#: includes/admin/widgets/abstract/class-wppr-widget-abstract.php:85
+#: includes/admin/widgets/abstract/class-wppr-widget-abstract.php:149
+msgid "Read Review"
+msgstr "Read Review"
+
+#: includes/admin/widgets/abstract/class-wppr-widget-abstract.php:82
+#: includes/admin/widgets/abstract/class-wppr-widget-abstract.php:145
+msgid "Buy Now"
+msgstr "Buy Now"
+
+#: includes/admin/layouts/widget-admin-tpl.php:113
+msgid "Read Review text:"
+msgstr "Read Review text:"
+
+#: includes/admin/layouts/widget-admin-tpl.php:108
+msgid "Buy Now text:"
+msgstr "Buy Now text:"
+
+#: includes/admin/layouts/widget-admin-tpl.php:84
+msgid "Layout:"
+msgstr "Layout:"
+
+#: includes/admin/layouts/editor-default-tpl.php:320
+msgid "Grade"
+msgstr "Grade"
+
+#: includes/admin/layouts/editor-default-tpl.php:291
+msgid "PRO add-on"
+msgstr "PRO add-on"
+
+#: includes/admin/layouts/editor-default-tpl.php:291
+msgid " In order to be able to automatically load your options from another posts, you need the "
+msgstr " In order to be able to automatically load your options from another posts, you need the "
+
+#: includes/admin/layouts/editor-default-tpl.php:282
+#: includes/gutenberg/src/block.js:339
+msgid "Product Options"
+msgstr "Product Options"
+
+#: includes/admin/layouts/editor-default-tpl.php:193
+msgid "Add new link"
+msgstr "Add new link"
+
+#: includes/admin/layouts/editor-default-tpl.php:162
+msgid "Open Affiliate link"
+msgstr "Open Affiliate link"
+
+#: includes/admin/layouts/editor-default-tpl.php:150
+#: includes/gutenberg/src/block.js:297
+msgid "Show Whole Image"
+msgstr "Show Whole Image"
+
+#: includes/admin/layouts/editor-default-tpl.php:137
+#: includes/gutenberg/src/block.js:293
+msgid "Product Image Click"
+msgstr "Product Image Click"
+
+#: includes/admin/layouts/editor-default-tpl.php:113
+msgid "Product name"
+msgstr "Product name"
+
+#: includes/admin/layouts/editor-default-tpl.php:20
+msgid "Is this a review post ?"
+msgstr "Is this a review post ?"
+
+#: includes/admin/helpers/class-wppr-html-fields.php:238
+msgid "You need the PRO <a style=\"color:red;\" href=\"http://bit.ly/2bhylar\" target=\"_blank\" >add-on</a> in order to change the review icons."
+msgstr "You need the PRO <a style=\"color:red;\" href=\"http://bit.ly/2bhylar\" target=\"_blank\" >add-on</a> in order to change the review icons."
+
+#: includes/admin/helpers/class-wppr-html-fields.php:227
+msgid "* Currently set to the default styling"
+msgstr "* Currently set to the default styling"
+
+#: includes/admin/helpers/class-wppr-html-fields.php:224
+msgid ". Use Default Styling"
+msgstr ". Use Default Styling"
+
+#: includes/admin/helpers/class-wppr-html-fields.php:122
+msgid "Choose image"
+msgstr "Choose image"
+
+#: includes/admin/class-wppr-global-settings.php:342
+msgid "Select the text color to be used on the buy button for the hover state"
+msgstr "Select the text colour to be used on the buy button for the hover state"
+
+#: includes/admin/class-wppr-global-settings.php:341
+msgid "Button text color hover"
+msgstr "Button text colour hover"
+
+#: includes/admin/class-wppr-global-settings.php:335
+msgid "Select the text color to be used on the buy button for the default state"
+msgstr "Select the text colour to be used on the buy button for the default state"
+
+#: includes/admin/class-wppr-global-settings.php:334
+msgid "Button text color"
+msgstr "Button text colour"
+
+#: includes/admin/class-wppr-global-settings.php:328
+msgid "Select the background color to be used on the buy button for the hover  state"
+msgstr "Select the background colour to be used on the buy button for the hover state"
+
+#: includes/admin/class-wppr-global-settings.php:327
+msgid "Button background hover"
+msgstr "Button background hover"
+
+#: includes/admin/class-wppr-global-settings.php:321
+msgid "Select the background color to be used on the buy button for the default state"
+msgstr "Select the background colour to be used on the buy button for the default state"
+
+#: includes/admin/class-wppr-global-settings.php:320
+msgid "Button background"
+msgstr "Button background"
+
+#: includes/admin/class-wppr-global-settings.php:314
+msgid "Select the border color to be used on the buy button for the hover state"
+msgstr "Select the border colour to be used on the buy button for the hover state"
+
+#: includes/admin/class-wppr-global-settings.php:313
+msgid "Button border hover"
+msgstr "Button border hover"
+
+#: includes/admin/class-wppr-global-settings.php:307
+msgid "Select the border color to be used on the buy button for the default state"
+msgstr "Select the border colour to be used on the buy button for the default state"
+
+#: includes/admin/class-wppr-global-settings.php:306
+msgid "Button border"
+msgstr "Button border"
+
+#: includes/admin/class-wppr-global-settings.php:296
+msgid "Show icon on the cart icon on button."
+msgstr "Show icon on the cart icon on button."
+
+#: includes/admin/class-wppr-global-settings.php:295
+msgid "Show button icon"
+msgstr "Show button icon"
+
+#: includes/admin/class-wppr-global-settings.php:287
+msgid "Select the width in pixels of the top border of the review box"
+msgstr "Select the width in pixels of the top border of the review box"
+
+#: includes/admin/class-wppr-global-settings.php:286
+msgid "Review box border width"
+msgstr "Review box border width"
+
+#: includes/admin/class-wppr-global-settings.php:280
+msgid "Select the border color to be used on the review box"
+msgstr "Select the border colour to be used on the review box"
+
+#: includes/admin/class-wppr-global-settings.php:279
+msgid "Review box border"
+msgstr "Review box border"
+
+#: includes/admin/class-wppr-global-settings.php:273
+msgid "Specify text for cons heading"
+msgstr "Specify text for cons heading"
+
+#: includes/admin/class-wppr-global-settings.php:272
+msgid "Cons text"
+msgstr "Cons text"
+
+#: includes/admin/class-wppr-global-settings.php:266
+msgid "Specify text for pros heading"
+msgstr "Specify text for pros heading"
+
+#: includes/admin/class-wppr-global-settings.php:265
+msgid "Pros text"
+msgstr "Pros text"
+
+#: includes/admin/class-wppr-global-settings.php:259
+msgid "Select the color to be used on the Cons text."
+msgstr "Select the colour to be used on the Cons text."
+
+#: includes/admin/class-wppr-global-settings.php:258
+msgid "Cons text color"
+msgstr "Cons text colour"
+
+#: includes/admin/class-wppr-global-settings.php:252
+msgid "Select the color to be used on the 'Pros' text."
+msgstr "Select the colour to be used on the 'Pros' text."
+
+#: includes/admin/class-wppr-global-settings.php:251
+msgid "Pros text color"
+msgstr "Pros text colour"
+
+#: includes/admin/class-wppr-global-settings.php:245
+msgid "Select the color to be used on the font."
+msgstr "Select the colour to be used on the font."
+
+#: includes/admin/class-wppr-global-settings.php:244
+msgid "Font color"
+msgstr "Font colour"
+
+#: includes/admin/class-wppr-global-settings.php:235
+msgid "Select the color to be used when the rating is very good. ( 7.5 < and <10)"
+msgstr "Select the colour to be used when the rating is very good. ( 7.5 < and <10)"
+
+#: includes/admin/class-wppr-global-settings.php:234
+msgid "Very good rating"
+msgstr "Very good rating"
+
+#: includes/admin/class-wppr-global-settings.php:228
+msgid "Select the color to be used when the rating is good. ( >5 and <7.5)"
+msgstr "Select the colour to be used when the rating is good. ( >5 and <7.5)"
+
+#: includes/admin/class-wppr-global-settings.php:227
+msgid "Good rating"
+msgstr "Good rating"
+
+#: includes/admin/class-wppr-global-settings.php:221
+msgid "Select the color to be used when the rating is not bad. ( > 2.5 and < 5)"
+msgstr "Select the colour to be used when the rating is not bad. ( > 2.5 and < 5)"
+
+#: includes/admin/class-wppr-global-settings.php:220
+msgid "Not bad rating"
+msgstr "Not bad rating"
+
+#: includes/admin/class-wppr-global-settings.php:214
+msgid "Select the color to be used when the rating is weak. ( < 2.5)"
+msgstr "Select the colour to be used when the rating is weak. ( < 2.5)"
+
+#: includes/admin/class-wppr-global-settings.php:213
+msgid "Weak rating"
+msgstr "Weak rating"
+
+#: includes/admin/class-wppr-global-settings.php:207
+msgid "Select the color to be used by default on rating chart."
+msgstr "Select the colour to be used by default on rating chart."
+
+#: includes/admin/class-wppr-global-settings.php:206
+msgid "Rating chart default color"
+msgstr "Rating chart default colour"
+
+#: includes/admin/class-wppr-global-settings.php:200
+msgid "Select the color to be used by default on rating."
+msgstr "Select the colour to be used by default on rating."
+
+#: includes/admin/class-wppr-global-settings.php:199
+msgid "Rating options default color"
+msgstr "Rating options default colour"
+
+#: includes/admin/class-wppr-global-settings.php:165
+msgid "Enable rich snippets on the product page."
+msgstr "Enable rich snippets on the product page."
+
+#: includes/admin/class-wppr-global-settings.php:164
+msgid "Enable Rich Snippets"
+msgstr "Enable Rich Snippets"
+
+#: includes/admin/class-wppr-global-settings.php:154
+msgid "Disable Font Awesome for websites that already are including it (increase loading speed)"
+msgstr "Disable Font Awesome for websites that already are including it (increase loading speed)"
+
+#: includes/admin/class-wppr-global-settings.php:153
+msgid "Disable Font Awesome"
+msgstr "Disable Font Awesome"
+
+#: includes/admin/class-wppr-global-settings.php:143
+msgid "Disable lightbox effect on product images (increase loading speed)"
+msgstr "Disable lightbox effect on product images (increase loading speed)"
+
+#: includes/admin/class-wppr-global-settings.php:142
+msgid "Disable Lighbox images"
+msgstr "Disable Lighbox images"
+
+#: includes/admin/class-wppr-global-settings.php:136
+msgid "Write your content width in pixels in this format : 600 if you want to limit the review box width."
+msgstr "Write your content width in pixels in this format : 600 if you want to limit the review box width."
+
+#: includes/admin/class-wppr-global-settings.php:135
+msgid "Content width"
+msgstr "Content width"
+
+#: includes/admin/class-wppr-global-settings.php:119
+msgid "You can select the default number of options / pros/ cons (3-10)"
+msgstr "You can select the default number of options / pros/ cons (3-10)"
+
+#: includes/admin/class-wppr-global-settings.php:118
+msgid "Number of options/pros/cons"
+msgstr "Number of options/pros/cons"
+
+#: includes/admin/class-wppr-global-settings.php:99
+msgid "Select how much visitors rating will affect the main one"
+msgstr "Select how much visitors rating will affect the main one"
+
+#: includes/admin/class-wppr-global-settings.php:98
+msgid "Visitor Review Influence"
+msgstr "Visitor Review Influence"
+
+#: includes/admin/class-wppr-global-settings.php:91
+#: includes/admin/class-wppr-global-settings.php:147
+#: includes/admin/class-wppr-global-settings.php:158
+#: includes/admin/class-wppr-global-settings.php:169
+#: includes/admin/class-wppr-global-settings.php:180
+#: includes/admin/class-wppr-global-settings.php:191
+#: includes/admin/layouts/editor-default-tpl.php:44
+msgid "No"
+msgstr "No"
+
+#: includes/admin/class-wppr-global-settings.php:90
+#: includes/admin/class-wppr-global-settings.php:146
+#: includes/admin/class-wppr-global-settings.php:157
+#: includes/admin/class-wppr-global-settings.php:168
+#: includes/admin/class-wppr-global-settings.php:179
+#: includes/admin/class-wppr-global-settings.php:190
+#: includes/admin/layouts/editor-default-tpl.php:32
+msgid "Yes"
+msgstr "Yes"
+
+#: includes/admin/class-wppr-global-settings.php:87
+msgid "Activate comment review user"
+msgstr "Activate comment review user"
+
+#: includes/admin/class-wppr-global-settings.php:86
+msgid "Show review comment"
+msgstr "Show review comment"
+
+#: includes/admin/class-wppr-global-settings.php:80
+msgid "Manually placed"
+msgstr "Manually placed"
+
+#: includes/admin/class-wppr-global-settings.php:79
+msgid "Before content"
+msgstr "Before content"
+
+#: includes/admin/class-wppr-global-settings.php:78
+msgid "After content"
+msgstr "After content"
+
+#: includes/admin/class-wppr-global-settings.php:74
+msgid "Position of the review box"
+msgstr "Position of the review box"
+
+#: includes/admin/class-wppr-global-settings.php:65
+msgid "Buy button"
+msgstr "Buy button"
+
+#: includes/admin/class-wppr-global-settings.php:64
+msgid "Typography"
+msgstr "Typography"
+
+#: includes/admin/class-wppr-global-settings.php:63
+msgid "Rating colors"
+msgstr "Rating colours"
+
+#: includes/admin/class-wppr-global-settings.php:62
+msgid "General settings"
+msgstr "General settings"
+
+#: includes/admin/class-wppr-editor.php:59
+msgid "Product Review Extra Settings"
+msgstr "Product Review Extra Settings"
+
+#: includes/admin/class-wppr-admin.php:149
+msgid "More Features "
+msgstr "More Features "
+
+#: includes/admin/class-wppr-admin.php:148
+msgid "More Features"
+msgstr "More Features"
+
+#: includes/admin/class-wppr-admin.php:135
+msgid "Product Review"
+msgstr "Product Review"
+
+#. Author URI of the plugin
+msgid "https://themeisle.com/"
+msgstr "https://themeisle.com/"
+
+#. Author of the plugin
+msgid "ThemeIsle"
+msgstr "ThemeIsle"
+
+#. Description of the plugin
+msgid "The highest rated and most complete review plugin, now with rich snippets support. Easily turn your basic posts into in-depth reviews."
+msgstr "The highest rated and most complete review plugin, now with rich snippets support. Easily turn your basic posts into in-depth reviews."
+
+#. Plugin URI of the plugin
+msgid "https://themeisle.com/plugins/wp-product-review/"
+msgstr "https://themeisle.com/plugins/wp-product-review/"
+
+#: includes/admin/class-wppr-admin.php:134 includes/gutenberg/src/block.js:240
+#: includes/gutenberg/src/block.js:244
+msgid "WP Product Review"
+msgstr "WP Product Review"
+
+#: includes/admin/widgets/class-wppr-top-products-widget.php:133
+msgid "Top Products"
+msgstr "Top Products"
+
+#: includes/admin/widgets/class-wppr-top-products-widget.php:28
+msgid "This widget displays the top products based on their rating."
+msgstr "This widget displays the top products based on their rating."
+
+#: includes/admin/widgets/class-wppr-top-products-widget.php:26
+msgid "Top Products Widget"
+msgstr "Top Products Widget"
+
+#: includes/admin/layouts/editor-default-tpl.php:367
+msgid "Insert product's cons features below."
+msgstr "Insert product's cons features below."
+
+#: includes/admin/layouts/editor-default-tpl.php:366
+msgid "Cons Features"
+msgstr "Cons Features"
+
+#: includes/admin/layouts/editor-default-tpl.php:335
+msgid "Insert product's pro features below."
+msgstr "Insert product's pro features below."
+
+#: includes/admin/layouts/editor-default-tpl.php:334
+#: includes/gutenberg/src/block.js:377
+msgid "Pro Features"
+msgstr "Pro Features"
+
+#: includes/admin/layouts/editor-default-tpl.php:288
+msgid "Preload Info"
+msgstr "Preload Info"
+
+#: includes/admin/layouts/editor-default-tpl.php:283
+msgid "Insert your options and their grades. Grading must be done from 0 to 100."
+msgstr "Insert your options and their grades. Grading must be done from 0 to 100."
+
+#: includes/admin/class-wppr-admin.php:412
+#: includes/admin/layouts/editor-default-tpl.php:265
+#: includes/admin/layouts/editor-default-tpl.php:271
+#: includes/gutenberg/src/block.js:332
+msgid "Product Price"
+msgstr "Product Price"
+
+#: includes/admin/layouts/editor-default-tpl.php:181
+#: includes/admin/layouts/editor-default-tpl.php:187
+#: includes/admin/layouts/editor-default-tpl.php:211
+#: includes/admin/layouts/editor-default-tpl.php:217
+#: includes/admin/layouts/editor-default-tpl.php:245
+#: includes/admin/layouts/editor-default-tpl.php:251
+msgid "Affiliate Link"
+msgstr "Affiliate Link"
+
+#: includes/admin/layouts/editor-default-tpl.php:169
+#: includes/admin/layouts/editor-default-tpl.php:175
+#: includes/admin/layouts/editor-default-tpl.php:199
+#: includes/admin/layouts/editor-default-tpl.php:205
+#: includes/admin/layouts/editor-default-tpl.php:233
+#: includes/admin/layouts/editor-default-tpl.php:239
+#: includes/gutenberg/src/block.js:310
+msgid "Affiliate Button Text"
+msgstr "Affiliate Button Text"
+
+#: includes/admin/layouts/editor-default-tpl.php:133
+msgid "If no image is provided, featured image is used"
+msgstr "If no image is provided, featured image is used"
+
+#: includes/admin/layouts/editor-default-tpl.php:125
+#: includes/gutenberg/src/block.js:287
+msgid "Choose or Upload an Image"
+msgstr "Choose or Upload an Image"
+
+#: includes/admin/layouts/editor-default-tpl.php:119
+#: includes/gutenberg/src/block.js:260
+msgid "Product Image"
+msgstr "Product Image"
+
+#: includes/admin/layouts/editor-default-tpl.php:107
+#: includes/gutenberg/src/block.js:253
+msgid "Product Name"
+msgstr "Product Name"
+
+#: includes/admin/layouts/editor-default-tpl.php:52
+msgid "Specify the general details for the reviewed product."
+msgstr "Specify the general details for the reviewed product."
+
+#: includes/admin/layouts/editor-default-tpl.php:51
+#: includes/gutenberg/src/block.js:247
+msgid "Product Details"
+msgstr "Product Details"
+
+#: includes/admin/layouts/widget-admin-tpl.php:121
+msgid "Display Product Image :"
+msgstr "Display Product Image :"
+
+#: includes/admin/layouts/widget-admin-tpl.php:117
+msgid "Display Product Titles :"
+msgstr "Display Product Titles :"
+
+#: includes/admin/layouts/widget-admin-tpl.php:37
+msgid "Category:"
+msgstr "Category:"
+
+#: includes/admin/layouts/widget-admin-tpl.php:19
+msgid "Number of posts to show:"
+msgstr "Number of posts to show:"
+
+#: includes/admin/layouts/widget-admin-tpl.php:15
+msgid "Title:"
+msgstr "Title:"
+
+#: includes/admin/widgets/abstract/class-wppr-widget-abstract.php:129
+msgid "10"
+msgstr "10"
+
+#: includes/admin/widgets/class-wppr-latest-products-widget.php:107
+msgid "Latest Products"
+msgstr "Latest Products"
+
+#: includes/admin/widgets/class-wppr-latest-products-widget.php:28
+msgid "This widget displays the latest products based on their rating."
+msgstr "This widget displays the latest products based on their rating."
+
+#: includes/admin/widgets/class-wppr-latest-products-widget.php:26
+msgid "Latest Products Widget"
+msgstr "Latest Products Widget"
+
+#: includes/admin/layouts/editor-default-tpl.php:311
+#: includes/admin/layouts/editor-default-tpl.php:353
+#: includes/admin/layouts/editor-default-tpl.php:384
+#: includes/gutenberg/src/block.js:351 includes/gutenberg/src/block.js:389
+#: includes/gutenberg/src/block.js:418
+msgid "Option"
+msgstr "Option"
+
+#: includes/admin/layouts/settings-tpl.php:64
+msgid "Save All Changes"
+msgstr "Save All Changes"
